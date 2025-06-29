@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/BetterCnam/static/css/main.287d810c.css",
-    "main.js": "/BetterCnam/static/js/main.ad7e7f92.js",
-    "index.html": "/BetterCnam/index.html",
-    "main.287d810c.css.map": "/BetterCnam/static/css/main.287d810c.css.map",
-    "main.ad7e7f92.js.map": "/BetterCnam/static/js/main.ad7e7f92.js.map"
+    "main.css": "./static/css/main.287d810c.css",
+    "main.js": "./static/js/main.ad7e7f92.js",
+    "index.html": "./index.html",
+    "main.287d810c.css.map": "./static/css/main.287d810c.css.map",
+    "main.ad7e7f92.js.map": "./static/js/main.ad7e7f92.js.map"
   },
   "entrypoints": [
     "static/css/main.287d810c.css",

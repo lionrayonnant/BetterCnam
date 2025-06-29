@@ -6,14 +6,6 @@ interface SearchAndFilterProps {
   onFiltresChange: (filtres: Filtres) => void;
 }
 
-const statusLabels: Record<Filtres['statut'], string> = {
-  tous: 'Toutes',
-  not_selected: 'Non sélectionnées',
-  to_do: 'À faire',
-  in_progress: 'En cours',
-  completed: 'Terminées',
-};
-
 const ueTypeOptions = [
   { value: 'to_do', label: 'À faire' },
   { value: 'in_progress', label: 'En cours' },
