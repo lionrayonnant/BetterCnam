@@ -66,17 +66,7 @@ Suivez et gérez votre progression dans vos UEs du CNAM de façon moderne, simpl
    ```bash
    npm run build
    ```
-
----
-
-## 🖥️ Utilisation
-
-- **Changer le statut d'une UE** : utilisez le menu déroulant sur chaque carte UE
-- **Ajouter une note/commentaire** : disponible uniquement pour les UEs « Completed »
-- **Filtrer** : utilisez la barre de recherche, le select ou les boutons de filtre
-- **Exporter/Importer** : allez dans l'onglet « Gestion des données »
-- **Réinitialiser** : bouton rouge dans l'onglet « Gestion des données »
-
+   
 ---
 
 ## 🎨 Technologies utilisées
@@ -98,14 +88,6 @@ Toutes vos données restent **locales** sur votre navigateur. Rien n'est envoyé
 
 ## 📝 Auteur
 - [lionrayonnant](https://github.com/lionrayonnant)
-
----
-
-## 💡 Améliorations possibles
-- Synchronisation cloud (optionnel)
-- Ajout de parcours personnalisés
-- Export PDF
-- Notifications de progression
 
 ---
 
