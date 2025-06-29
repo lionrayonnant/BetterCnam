@@ -50,7 +50,7 @@ Suivez et gérez votre progression dans vos UEs du CNAM de façon moderne, simpl
 1. **Cloner le dépôt**
    ```bash
    git clone https://github.com/lionrayonnant/BetterCnam.git
-   cd BetterCnam-webapp
+   cd BetterCnam
    ```
 2. **Installer les dépendances**
    ```bash
