@@ -2,6 +2,8 @@
 
 Suivez et gérez votre progression dans vos UEs du CNAM de façon moderne, simple et personnalisée.
 
+Vibcodé avec Cursor.
+
 ---
 
 ## 🚀 Fonctionnalités principales
